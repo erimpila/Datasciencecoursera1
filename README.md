@@ -1,2 +1,2 @@
-# Datasciencecoursera1
+# datasciencecoursera
 Test repo for Data Scientist's Toolkit course
